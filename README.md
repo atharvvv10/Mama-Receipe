@@ -1,6 +1,6 @@
 Mama Recipe App 🍽️
 
-A modern recipe management app where food lovers can explore, save, and share delicious recipes. Built using : React, Node.js, Firebase. It provides a seamless and intuitive experience for cooking enthusiasts.
+A modern recipe management app where food lovers can explore, save, and share delicious recipes. Built using : React, Node.js,MongoDB. It provides a seamless and intuitive experience for cooking enthusiasts.
 
 🚀 Features
 ✅ Explore Recipes: Browse a wide variety of delicious recipes, from breakfast to dinner.
